@@ -1,2 +1,2 @@
 # DEMO-
-Author = Shail patel 
+Author = Shail patel (student)
